@@ -95,9 +95,9 @@ It empowers authorities to detect, respond, and document incidents efficiently â
 
 | Name | Role | Email | Institution |
 |------|------|--------|-------------|
-| **Arun Kumar M** | Team Lead | arunkumar.m2024a@vitstudent.ac.in | VIT Chennai |
+| **Arun Kumar M** | Team Lead | marunkumar.datascientist@gmail.com | VIT Chennai |
 | **Anandha Bhavatarini S** | Member | anandha.2024@vitstudent.ac.in | VIT Chennai |
-| **Barath K** | Member | barath.k2024@vitstudent.ac.in | VIT Chennai |
+| **Barath K** | Member | kbarath1201@gmail.com | VIT Chennai |
 | **Yuvaraj A** | Member | yuvaraj.2024@vitstudent.ac.in | VIT Chennai |
 
 ---
