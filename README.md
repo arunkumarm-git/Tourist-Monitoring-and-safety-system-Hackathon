@@ -251,13 +251,6 @@ python simulation_runner.py fast
 | **Bhava** | Frontend Developer | React dashboard, Leaflet maps, real-time hooks, alert panel, tourist registration, UI/UX |
 | **Arun** | System Architect | System architecture, database schemas, security strategy, documentation, deployment configs |
 
-### Contribution Statistics
-
-- **Total Commits**: 345
-- **Files Created**: 74
-- **Lines of Code**: ~9,300
-- **Development Time**: 5 weeks
-
 ---
 
 ## Future Enhancements
